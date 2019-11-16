@@ -11,10 +11,5 @@ I have visualized earthquakes occurring globally using a live API feed provided 
 * https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 * https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 
-#### Images from the final app
-![final_app_part1.png](Images/5-Advanced.png)
-![final_app_part2.png](Images/Cluster.png)
-![final_app_part3.png](Images/Heat.png)
-
 
 
